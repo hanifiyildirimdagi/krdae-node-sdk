@@ -1,0 +1,6 @@
+/tests
+/dist/tests
+.mocharc.json
+rollup.config.js
+.gitignore
+/src
